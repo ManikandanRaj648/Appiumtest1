@@ -7,7 +7,9 @@ public class Test2 {
 		int b=5;
 		return a+b;
 	}
-
+	public void addonemoremethod() {
+		System.out.println("They are capable to access.");
+	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Test2 tet=new Test2();
